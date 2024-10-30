@@ -1,1 +1,0 @@
-python calculate_levels.py candles.txt levels.txt
